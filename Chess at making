@@ -1,0 +1,225 @@
+#include "stdafx.h"
+#include <iostream>
+using namespace std;
+void print() {
+    cout << endl;
+	{cout << char(218);
+	int aa = 7;
+	while (aa--) {
+		int a = 6;
+		while (a--) {
+			cout << char(196);
+		}
+		cout << char(194);
+	}
+	int a = 6;
+	while (a--) {
+		cout << char(196);
+	}
+	cout << char(191); }
+	cout << endl;
+	int b = 3;
+	while (b--) {
+		{cout << char(179);
+		int aa = 4;
+		while (aa--) {
+			int a = 6;
+			while (a--) {
+				cout << char(178);
+			}
+			cout << char(179);
+			a = 6;
+			while (a--) {
+				cout << char(176);
+			}
+			cout << char(179);
+		}
+		}	
+		int aa = 4;
+		while (aa--) {
+			cout << char(178) << "    " << char(178) << char(179);
+			cout << char(176) << "    " << char(176) << char(179);
+		}
+		}
+	cout << "  " << cha++;
+	cout << endl;
+		{cout << char(179);
+		int aa = 4;
+		while (aa--) {
+			int a = 6;
+			while (a--) {
+				cout << char(178);
+			}
+			cout << char(179);
+			a = 6;
+			while (a--) {
+				cout << char(176);
+			}
+			cout << char(179);
+		}
+		}
+		cout << endl;
+		{
+			cout << char(195);
+			int a = 7;
+			while (a--)
+				cout << char(196) << char(196) << char(196) << char(196) << char(196) << char(196) << char(197);
+			cout << char(196) << char(196) << char(196) << char(196) << char(196) << char(196) << char(180);
+		}
+		cout << endl;
+		{cout << char(179);
+		int aa = 4;
+		while (aa--) {
+			int a = 6;
+			while (a--) {
+				cout << char(176);
+			}
+			cout << char(179);
+			a = 6;
+			while (a--) {
+				cout << char(178);
+			}
+			cout << char(179);
+		}
+		}
+		cout << endl;
+		{cout << char(179);
+		int aa = 4;
+		while (aa--) {
+			cout << char(176) << "    " << char(176) << char(179);
+			cout << char(178) << "    " << char(178) << char(179);
+		}
+		}
+		cout << endl;
+		{cout << char(179);
+		int aa = 4;
+		while (aa--) {
+			int a = 6;
+			while (a--) {
+				cout << char(176);
+			}
+			cout << char(179);
+			a = 6;
+			while (a--) {
+				cout << char(178);
+			}
+			cout << char(179);
+		}
+		}
+		cout << endl;
+		{
+			cout << char(195);
+			int a = 7;
+			while (a--)
+				cout << char(196) << char(196) << char(196) << char(196) << char(196) << char(196) << char(197);
+			cout << char(196) << char(196) << char(196) << char(196) << char(196) << char(196) << char(180);
+		}
+		cout << endl;
+	}
+	{cout << char(179);
+	int aa = 4;
+	while (aa--) {
+		int a = 6;
+		while (a--) {
+			cout << char(178);
+		}
+		cout << char(179);
+		a = 6;
+		while (a--) {
+			cout << char(176);
+		}
+		cout << char(179);
+	}
+	}
+	cout << endl;
+	{cout << char(179);
+	int aa = 4;
+	while (aa--) {
+		cout << char(178) << "    " << char(178) << char(179);
+		cout << char(176) << "    " << char(176) << char(179);
+	}
+	}
+	cout << endl;
+	{cout << char(179);
+	int aa = 4;
+	while (aa--) {
+		int a = 6;
+		while (a--) {
+			cout << char(178);
+		}
+		cout << char(179);
+		a = 6;
+		while (a--) {
+			cout << char(176);
+		}
+		cout << char(179);
+	}
+	}
+	cout << endl;
+	{
+		cout << char(195);
+		int a = 7;
+		while (a--)
+			cout << char(196) << char(196) << char(196) << char(196) << char(196) << char(196) << char(197);
+		cout << char(196) << char(196) << char(196) << char(196) << char(196) << char(196) << char(180);
+	}
+	cout << endl;
+	{cout << char(179);
+	int aa = 4;
+	while (aa--) {
+		int a = 6;
+		while (a--) {
+			cout << char(176);
+		}
+		cout << char(179);
+		a = 6;
+		while (a--) {
+			cout << char(178);
+		}
+		cout << char(179);
+	}
+	}
+	cout << endl;
+	{cout << char(179);
+	int aa = 4;
+	while (aa--) {
+		cout << char(176) << "    " << char(176) << char(179);
+		cout << char(178) << "    " << char(178) << char(179);
+	}
+	}
+	cout << endl;
+	{cout << char(179);
+	int aa = 4;
+	while (aa--) {
+		int a = 6;
+		while (a--) {
+			cout << char(176);
+		}
+		cout << char(179);
+		a = 6;
+		while (a--) {
+			cout << char(178);
+		}
+		cout << char(179);
+	}
+	}
+	cout << endl;
+	{cout << char(192);
+	int aa = 7;
+	while (aa--) {
+		int a = 6;
+		while (a--) {
+			cout << char(196);
+		}
+		cout << char(193);
+	}
+	int a = 6;
+	while (a--) {
+		cout << char(196);
+	}
+	cout << char(217); }
+	cout << endl;
+}
+int main() {
+	print();
+}
